@@ -1,0 +1,15 @@
+
+---
+
+LICENSE (Lisensi MIT)
+
+
+MIT License
+
+Copyright (c) 2024 Firecat.Inc
+
+Dengan ini diberikan izin, secara cuma-cuma, kepada siapa saja yang memperoleh salinan dari perangkat lunak ini dan file dokumentasinya (disebut sebagai "Perangkat Lunak"), untuk bertransaksi dalam Perangkat Lunak tanpa batasan, termasuk hak untuk menggunakan, menyalin, mengubah, menggabungkan, menerbitkan, mendistribusikan, memberikan sublisensi, dan/atau menjual salinan Perangkat Lunak, dan untuk mengizinkan orang yang menerima Perangkat Lunak melakukannya, sesuai dengan ketentuan-ketentuan berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau bagian substansial dari Perangkat Lunak.
+
+PERANGKAT LUNAK INI DISEDIAKAN "APA ADANYA", TANPA JAMINAN DALAM BENTUK APAPUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU DAN TANPA PELANGGARAN. DALAM KEADAAN APAPUN, PENULIS ATAU PEMEGANG HAK CIPTA TIDAK AKAN BERTANGGUNG JAWAB ATAS SEGALA KLAIM, KERUSAKAN, ATAU KERUGIAN LAINNYA, BAIK DALAM TINDAKAN KONTRAK, KERUGIAN, ATAU TINDAKAN LAINNYA, YANG TIMBUL DARI ATAU BERKAITAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU PERDAGANGAN DALAM PERANGKAT LUNAK.
